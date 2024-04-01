@@ -1,0 +1,9 @@
+.container{
+    display: grid;
+    background-color: blueviolet;
+    border-radius: 50px;
+    text-align: center;
+}
+#temparature{
+    background-color: slateblue;
+}
